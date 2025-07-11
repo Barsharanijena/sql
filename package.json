@@ -1,0 +1,23 @@
+{
+  "name": "sql",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000s\u0000q\u0000l\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Barsharanijena/sql.git"
+  },
+  "author": "Barsha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Barsharanijena/sql/issues"
+  },
+  "homepage": "https://github.com/Barsharanijena/sql#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
